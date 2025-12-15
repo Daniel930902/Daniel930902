@@ -18,12 +18,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielweng0902&layout=compact&langs_count=6&theme=radical"/>
 </p>
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielweng0902&theme=radical" />
-</p>
-
 ## Featured Project（進行中 / 已完成）
 
 ### [Mood-DJ](https://github.com/Danielweng0902/Mood-DJ)  
